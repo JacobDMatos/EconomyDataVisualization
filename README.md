@@ -5,6 +5,9 @@ All data used in this project was obtained from the Organization for Economic Co
 
 # What I Have Learned So Far
 - Data science
+  - Preparing data
+  - Modeling data
+  - Visualizing data
 - Setting up a local SQL database using Microsoft's SQL Server Management Studio (SSMS)
 - Importing/Exporting files using SSMS
 - SQL programming
@@ -22,3 +25,7 @@ All data used in this project was obtained from the Organization for Economic Co
   - Displaying multiple legends
   - Altering graph line/bar appearance using optional parameters (color and linestyle)
   - Altering legend appearance using optional parameters (title, loc, borderpad, labelspacing, ncol)
+- Power BI
+  - Transforming data in Power Query
+  - Setting relationships between CSVs in the Model View
+  - Displaying data using various visualizations and filters in the Report View
